@@ -3,4 +3,3 @@ epang resolusi
 - belajar sesuatu yang baru
  -lulus dengan tepat waktu
  - kedepannya saya berniat ingin membangun sebuah aplikasi perpustakaan
- - konsisten belajar php web development
